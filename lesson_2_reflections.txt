@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+the initialization is needed for a repository becaus it's where we will store our commits.
