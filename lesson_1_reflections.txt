@@ -1,0 +1,52 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    much faster way and shorter time to find diffs 
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    could see all changes made to the file and be able to read code more rapidly 
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    pros : you see the changes ans who done them, the cons little too long to find what you looking for
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    i think it is to allow create more efficient programmer community
+
+How can you use the commands git log and git diff to view the history of files?
+
+    using the prompt bash window
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Fill in your answer here
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    share some projects with experienced programmers
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+    seeing through different versions of the same file makes you capable of spotting diffs more rapidly
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+    pros: you control the amount of commits  cons: could save a commit without really needing to do so.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+    becaus ethey are focused on files building a project, useful to compare files together.
+
+How can you use the commands git log and git diff to view the history of files?
+    on bash window use git log command then git diff followed by id of the 2 files to see differences and history
+
+How might using version control make you more confident to make changes that could break something?
+    can revert what i just wrote ...
+
+How can you use the staging area to make sure you have one commit per logical change?
+adding to stage area only the changed files.
